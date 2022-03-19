@@ -7,6 +7,10 @@ La persistance désigne l'ensemble des techniques qui permettent de stocker des 
 - Bases de données(SQLite)
 - Fichiers (création et sauvegarde)
 
+
+![Sans titre](https://user-images.githubusercontent.com/81255636/159103080-955b6954-c9de-4e8b-bc1b-17566e80abeb.gif)
+
+
 > Dans ce TP on va aborder la méthode de système des fichiers pour persister les données qu'ils sont ici les étudiants, alors notre application va : 
 > 
 1. RécuperéesRécupérer la liste des étudiants(déserialisés) persistée dans le fichier **"etudiants.dat"** 
