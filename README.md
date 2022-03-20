@@ -13,7 +13,7 @@ La persistance désigne l'ensemble des techniques qui permettent de stocker des 
 
 > Dans ce TP on va aborder la méthode de système des fichiers pour persister les données qu'ils sont ici les étudiants, alors notre application va : 
 > 
-1. RécuperéesRécupérer la liste des étudiants(déserialisés) persistée dans le fichier **"etudiants.dat"** 
+1. Récupérer la liste des étudiants(déserialisés) persistée dans le fichier **"etudiants.dat"** 
 
 ![image](https://user-images.githubusercontent.com/81255636/159100446-8098ad8b-06f1-4c38-92d4-46df4730b85d.png)
 
